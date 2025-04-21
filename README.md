@@ -15,7 +15,7 @@ Polynomial regression models of varying complexity (degrees 1–9).
 
 **Model Fit Plots:** Compare underfitting (linear) vs. overfitting (high-degree polynomials).
 
-Error Metrics: Bias², variance, and total error decomposition.
+**Error Metrics:** Bias², variance, and total error decomposition.
 
 **Accuracy Tracking:** R² scores for training and test sets.
 
