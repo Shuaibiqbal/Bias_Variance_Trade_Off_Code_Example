@@ -36,4 +36,5 @@ Polynomial regression models of varying complexity (degrees 1–9).
 
 **How to Use**
 **Clone the repo:** git clone [https://github.com/shuaibiqbal/Bias_Variance_Trade_Off_Code_Example.git](https://github.com/Shuaibiqbal/Bias_Variance_Trade_Off_Code_Example.git)
+
 **Run the Jupyter notebook or Python script:** jupyter notebook Bias_Variance_Trade_Off_Code_Example.ipynb
