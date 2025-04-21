@@ -36,4 +36,4 @@ Error Metrics: Bias², variance, and total error decomposition.
 
 **How to Use**
 **Clone the repo:** git clone https://github.com/shuaibiqbal/Bias_Variance_Trade_Off_Code_Example.git
-Run the Jupyter notebook or Python script: jupyter notebook Bias_Variance_Trade_Off_Code_Example.ipynb
+**Run the Jupyter notebook or Python script:** jupyter notebook Bias_Variance_Trade_Off_Code_Example.ipynb
